@@ -4,13 +4,13 @@ I recently discovered the great placeholder website [fakeimg.pl](http://fakeimg.
 
 **tabTrigger** : `fakeimg`
 
-This snippet tabs through all of the available options:
+This snippet tabs through all of the available options (and their `defaults`):
 
-- horizontal size
-- vertical size
-- background color
-- text color
-- text
+- horizontal size `350`
+- vertical size `200`
+- background color `00CED1` (darkturquoise)
+- text color `FFF` (white)
+- sample text `img+placeholder` (img placeholder)
 
 FakeImg.pl also has support for `&font=lobster` and possibly other fonts though options are not documented on the site.
 
