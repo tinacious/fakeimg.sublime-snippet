@@ -1,4 +1,4 @@
-# FakeImg.pl Placeholder Support for Sublime Text 2
+# FakeImg.pl Placeholder Snippet for Sublime Text 2
 
 I recently discovered the great placeholder website [fakeimg.pl](http://fakeimg.pl/).
 
