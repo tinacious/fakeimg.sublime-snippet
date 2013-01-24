@@ -24,3 +24,7 @@ This snippet tabs through all of the available options:
 - text
 
 FakeImg.pl also has support for `&font=lobster` and possibly other fonts though options are not documented on the site.
+
+Below is a screenshot of the default settings.
+
+![Screenshot of the default image](https://raw.github.com/tinacious/fakeimg.sublime-snippet/master/fakeimg-screenshot.png)
